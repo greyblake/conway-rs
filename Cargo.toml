@@ -5,3 +5,4 @@ authors = ["Sergey Potapov <blake131313@gmail.com>"]
 
 [dependencies]
 rand = "*"
+clap = "*"

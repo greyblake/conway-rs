@@ -4,6 +4,8 @@ Conway's Game of Life implemented in Rust.
 
 The project is created for learning purposes.
 
+![Conway's Game of Life Rust implementation](https://github.com/greyblake/conway-rs/raw/master/misc/conway.gif)
+
 ## Usage
 
 Build executable:

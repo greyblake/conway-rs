@@ -13,7 +13,7 @@ impl Board {
     ///
     /// # Examples
     /// ```
-    /// let board = Board::new(40, f122fd);
+    /// let board = Board::new(40, 20);
     /// ```
     pub fn new(width: usize, height: usize) -> Board {
         let matrix = vec![vec![false; width]; height];
